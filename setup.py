@@ -70,4 +70,6 @@ setup(
         'Topic :: Software Development :: Libraries :: Application Frameworks',
         'Topic :: Software Development :: Widget Sets'
     ],
+    ALLOWED_HOSTS = ['13.233.46.190', 'localhost', '0.0.0.0']
+
 )
